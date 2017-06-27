@@ -20,6 +20,13 @@ html {
 	border-radius: 10px;
 }
 
+a {
+	color: #605FB8;
+}
+a:active {
+	color: #F1FDFF;
+}
+
 .index_picture_separate {
 	height: 20px;
 }
@@ -29,15 +36,32 @@ html {
 .index_question_separate {
 	height: 1px;
 }
+.index_bottom_separate {
+	height: 30px;
+}
 #index_logo_img {
 	display: block;
-	width: 700px;
+	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
 }
 #index_mascot_img {
 	display: block;
-	width: 300px;
+	width: 200px;
 	margin-left: auto;
 	margin-right: auto;
+}
+#index_log_a {
+	border-radius: 5px;
+	background-color: #474787;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+}
+#index_log_a:hover {
+	background-color: #605FB8;
+}
+#index_log_a:active {
+	background-color: #F1FDFF;
+	color: #070658;
 }
