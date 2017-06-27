@@ -7,10 +7,11 @@ html {
 	background-size: cover;
 	font-family: 'Varela Round', sans-serif;
 	color: #010155;
+	line-height: 28px;
 }
 
 .backest_div {
-	background-color: rgba(217, 220, 255, .82);
+	background-color: rgba(217, 220, 255, .88);
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 50px;
@@ -21,6 +22,12 @@ html {
 
 .index_picture_separate {
 	height: 20px;
+}
+.index_section_separate {
+	height: 10px;
+}
+.index_question_separate {
+	height: 1px;
 }
 #index_logo_img {
 	display: block;
