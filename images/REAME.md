@@ -1,1 +1,4 @@
-This is where all the images go =_=
+#Production urls:
+
+
+#Development urls:
